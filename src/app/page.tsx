@@ -8,7 +8,7 @@ export default async function Home() {
     <main
       className={"relative h-screen flex justify-center items-center flex-col"}
     >
-      <h1>DRIZZLE SUPABASE TEMPLATE</h1>
+      <h1>DRIZZLE SUPABASE NEXTJS TEMPLATE</h1>
       <div className={"flex flex-col"}>
         <Form />
         {userData.map((d) => (
