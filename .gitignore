@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# Drizzle 
+/drizzle/
+
 # production
 /build
 
